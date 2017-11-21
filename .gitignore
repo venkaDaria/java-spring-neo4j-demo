@@ -1,0 +1,12 @@
+.idea/
+.gradle/
+gradle/
+build/
+out/
+dist/
+
+*.iml
+
+/src/main/resources/node_modules/
+
+**/.DS_Store
